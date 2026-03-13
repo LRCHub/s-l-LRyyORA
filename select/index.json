@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "CH4NGE (Self Cover)",
+  "base_artist": "Giga",
+  "createdAt": "2026-03-13T09:01:39.242989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CH4NGE - Self Cover",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/01_CH4NGE_-_Self_Cover_Giga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CH4NGE (Self Cover)",
+      "artist": "Giga",
+      "has_synced": false,
+      "path": "select/02_CH4NGE_(Self_Cover)_Giga.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CH4NGE (Self Cover)",
+      "artist": "ギガP",
+      "has_synced": true,
+      "path": "select/03_CH4NGE_(Self_Cover)_ギガP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CH4NGE (Self Cover)",
+      "artist": "GIGA",
+      "has_synced": false,
+      "path": "select/pl_01_CH4NGE_(Self_Cover)_GIGA.txt"
+    }
+  ]
+}
